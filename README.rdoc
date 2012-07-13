@@ -1,0 +1,3 @@
+= AbsenceValidator for Rails
+
+Docs coming soon...
